@@ -89,6 +89,12 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyebilirsi
 
 ## 📈 Sonuçlar
 
+
+
+<img width="539" height="547" alt="indir" src="https://github.com/user-attachments/assets/69a3c91e-bdc2-4646-89e6-1807c7fc9346" />
+
+
+
 Yapılan analizler ve modellemeler sonucunda, kredi riskini tahmin etmede çeşitli makine öğrenimi modelleri test edilmiştir. Özellikle **XGBoost Classifier** ve **Random Forest Classifier** gibi ağaç tabanlı modellerin, sınıf dengesizliği olan bu veri setinde diğer modellere göre daha iyi performans gösterdiği gözlemlenmiştir.
 
 En iyi modelin, belirlenen metrikler (örn. F1 Skoru ve ROC AUC) açısından tatmin edici sonuçlar verdiği ve kredi red oranlarını doğru bir şekilde tahmin etme potansiyeli taşıdığı görülmüştür.
